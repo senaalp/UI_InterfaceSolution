@@ -1,2 +1,4 @@
 # UI_InterfaceSolution
 Team project to evaluate the site and propose a code-free redesign. I led issue identification; we recommended a cleaner layout and typography, WCAG-friendly contrast, standardized navigation, and a site-wide search to improve usability and findability.
+UI Improvement Proposal (Yale School of Art Website)
+In this team project, we evaluated the Yale School of Art website’s usability and proposed a code-free redesign. I led the issue-finding phase by identifying key problems such as visual clutter, weak hierarchy, low-contrast readability, inconsistent navigation, and the lack of a global search. Our proposal focused on a cleaner layout with consistent typography, WCAG-friendly contrast, standardized navigation (clear labels/active states), and a site-wide search to improve findability and overall user experience.
